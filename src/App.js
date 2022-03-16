@@ -1,5 +1,11 @@
 import './App.css';
-import CountDown from "./components/CountDown";
+import CountDown from "./components/Countdown/CountDown";
+
+//TODO
+//1-Date JS Logs
+//2-HTML CSS
+//3-JS COUNTDOWN
+//4-ADD CALENDAR
 
 function App() {
   return (
